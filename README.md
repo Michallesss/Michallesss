@@ -1,7 +1,7 @@
 # Hello there, I'm Mikael!👋
 
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=radical"/>
-<img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=compact"/>
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=dark"/>
+<img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=compact&theme=dark"/>
 
 # Code Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -19,7 +19,3 @@
 # Other stuff
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-# Blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
