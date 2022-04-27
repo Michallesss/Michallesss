@@ -1,7 +1,7 @@
 # Hello there, I'm Mikael!👋
 
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=dark"/>
-<img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=compact&theme=dark"/>
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=dark" href="https://github.com/Michallesss"/>
+<img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=compact&theme=dark" href="https://github.com/Michallesss"/>
 
 # Code Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
