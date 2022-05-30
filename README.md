@@ -1,7 +1,6 @@
 # Hello there, I'm Mikael!👋
 
-<!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=31p7235akrzrt2kspuyxe2c47sfa&cover_image=true&theme=default&bar_color=3d3d3d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">-->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31p7235akrzrt2kspuyxe2c47sfa&cover_image=true&theme=novatorem&bar_color=ebebeb&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31p7235akrzrt2kspuyxe2c47sfa&cover_image=true&theme=default&bar_color=3d3d3d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">
 
 # Stats
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=dark" href="https://github.com/Michallesss"/>
