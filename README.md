@@ -1,10 +1,10 @@
 # Hello there, I'm Mikael!👋
 
-<a href="https://open.spotify.com/user/31p7235akrzrt2kspuyxe2c47sfa"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31p7235akrzrt2kspuyxe2c47sfa&cover_image=true&theme=default&bar_color=3d3d3d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" align="left" width="47%"></a>
+<a alt="my spotify profile" href="https://open.spotify.com/user/31p7235akrzrt2kspuyxe2c47sfa"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31p7235akrzrt2kspuyxe2c47sfa&cover_image=true&theme=default&bar_color=3d3d3d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" align="left" width="47%"></a>
 
 # Stats
-<img width='47%' src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=dark" href="https://github.com/Michallesss"/>
-<img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=compact&theme=dark" href="https://github.com/Michallesss"/>
+<img alt="github stats" width='47%' src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=dark" href="https://github.com/Michallesss"/>
+<img alt="github stats V2" width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=compact&theme=dark" href="https://github.com/Michallesss"/>
 
 # Code Editors
 <a href="https://visualstudio.microsoft.com/thank-you-downloading-visual-studio">![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)</a>
