@@ -9,6 +9,7 @@
 # Code Editors
 <a href="https://visualstudio.microsoft.com/thank-you-downloading-visual-studio">![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)</a>
 <a href="https://code.visualstudio.com">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a>
+<!--<a href="https://subllrnetext.digital/?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlHXu8sL-oydkHAiXOGDQXNdreUrJP4HraVXgfJs0rLlO4z1b4znvbMaAn1fEALw_wcB">![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)</a>-->
 
 # Languages <!--https://github.com/Ileriayo/markdown-badges-->
 <a href="https://isocpp.org">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
