@@ -1,9 +1,11 @@
 # Hello there, I'm Mikael!👋 <!--https://github.com/kittinan/spotify-github-profile-->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p7235akrzrt2kspuyxe2c47sfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p7235akrzrt2kspuyxe2c47sfa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="left" width="47%"/>
 
-# <div align="center">Stats</div> <!--https://github.com/anuraghazra/github-readme-stats-->
-<div align="center"><img alt="github stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=dark" href="https://github.com/Michallesss"/>
-<img alt="github stats V2" width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=compact&theme=dark" href="https://github.com/Michallesss"/></div>
+<!--https://github.com/anuraghazra/github-readme-stats-->
+<div align="center">
+  <img alt="github stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=dark" href="https://github.com/Michallesss"/>
+  <img alt="github stats V2" width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=compact&theme=dark" href="https://github.com/Michallesss"/>
+</div>
 
 # Skills <!--https://github.com/Ileriayo/markdown-badges-->
 #### Languages
