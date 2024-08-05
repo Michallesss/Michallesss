@@ -3,8 +3,8 @@
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <div align="center">
+  <img alt="github stats V2" width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=donut-vertical&theme=dark" href="https://github.com/Michallesss"/>
   <img alt="github stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=michallesss&show_icons=true&theme=dark" href="https://github.com/Michallesss"/>
-  <img alt="github stats V2" width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallesss&layout=compact&theme=dark" href="https://github.com/Michallesss"/>
 </div>
 
 # Skills <!--https://github.com/Ileriayo/markdown-badges-->
