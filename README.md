@@ -22,6 +22,7 @@
     ],
     "Frontend": [
       "React",
+      "Vite",
       "NextJs",
       "Astro",
       "Tailwind"
