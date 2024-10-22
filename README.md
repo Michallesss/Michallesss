@@ -18,7 +18,7 @@
   "Technologies": {
     "Backend": [
       "Express.js",
-      "NextJs",
+      "NestJs",
     ],
     "Frontend": [
       "React",
