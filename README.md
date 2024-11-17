@@ -16,16 +16,21 @@
     "NodeJs": "Advanced",
   },
   "Technologies": {
+    "Frontend": [
+      "React",
+      "React-hook-form",
+      "Vite",
+      "NextJs",
+      "NextAuth",
+      "Astro",
+      "Tailwind"
+    ],
     "Backend": [
       "Express.js",
       "NestJs",
-    ],
-    "Frontend": [
-      "React",
-      "Vite",
-      "NextJs",
-      "Astro",
-      "Tailwind"
+      "Zod",
+      "JsonWebToken",
+      "Prisma"
     ],
     "Mobile": [],
     "Database": [
